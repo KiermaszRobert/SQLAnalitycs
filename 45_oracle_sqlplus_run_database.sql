@@ -1,3 +1,5 @@
+/* dont run, only check
+
 srvctl status database -db mail
 
 sqlplus / as sysdba
@@ -17,3 +19,5 @@ drop user hr cascade;
 
 
 SET ORACLE_SID=orcl3
+
+*/ 
